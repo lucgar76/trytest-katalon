@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>output_range</name>
+   <tag></tag>
+   <elementGuidId>12fa37fb-aa1b-4528-ac42-06a4dc9b2a38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//output[@name='x']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>output[name='x']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//output[@name='x']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>output</value>
+      <webElementGuid>267b2640-5b93-4241-b928-e49fff0be870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>x</value>
+      <webElementGuid>70d60950-cf10-4d87-bb22-6790cdff856b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

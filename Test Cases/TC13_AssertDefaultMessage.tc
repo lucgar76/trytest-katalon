@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC13_AssertDefaultMessage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1bcd802-7d1d-40cb-8b35-0d5945c3dec7</testCaseGuid>
+</TestCaseEntity>
