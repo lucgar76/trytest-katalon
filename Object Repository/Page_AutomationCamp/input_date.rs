@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_date</name>
+   <tag></tag>
+   <elementGuidId>b0fba439-cad6-422f-916c-b91e75a2d96e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='day']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#day</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='day']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>bf9cf70c-ae6d-4e70-af38-855899c7a3df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>day</value>
+      <webElementGuid>847f0923-eccb-4fdc-a8e6-26cea3117eb5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_other</name>
+   <tag></tag>
+   <elementGuidId>b9218369-2867-4f46-90d8-569a52e99359</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='other']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#other</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='other']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>06c64587-f95a-4171-b53e-c55834bd7ed8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>other</value>
+      <webElementGuid>cdefda64-2eee-4644-a528-664cb5bdf426</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
