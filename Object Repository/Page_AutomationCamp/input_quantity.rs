@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_quantity</name>
+   <tag></tag>
+   <elementGuidId>0d921c15-b018-4b12-afb4-17864766501e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='quantity']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#quantity</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='quantity']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7e0ddcb0-ff42-4b8d-ab14-009579d96e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>quantity</value>
+      <webElementGuid>532c88e4-595c-41d4-86fe-03fac53e4293</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

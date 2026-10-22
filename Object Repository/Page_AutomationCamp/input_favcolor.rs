@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_favcolor</name>
+   <tag></tag>
+   <elementGuidId>f7497d5c-de24-4ca0-ad6e-20ddb5d2416f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='favcolor']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#favcolor</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='favcolor']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>7404e89f-041d-40fe-8f66-fee49caf718a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>favcolor</value>
+      <webElementGuid>6b93d611-9ac4-4fc3-94c2-763af974ed67</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

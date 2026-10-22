@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_message</name>
+   <tag></tag>
+   <elementGuidId>df6243d2-dacb-4062-bb55-1be34b0c24ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@name='message']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea[name='message']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//textarea[@name='message']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>dc34a664-fe6a-44da-b7c2-d36a3405e537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>message</value>
+      <webElementGuid>4f0fa348-6cfe-420b-b63f-3784a3ed1bd5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_file</name>
+   <tag></tag>
+   <elementGuidId>d243dfe3-2bc2-4858-b6c8-105662864176</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='myfile']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#myfile</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='myfile']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c682b67e-bfbc-4e2c-be0c-4e3e3be9e08a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>myfile</value>
+      <webElementGuid>859b8e6f-58a7-4d45-97c0-9f932b12ddca</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

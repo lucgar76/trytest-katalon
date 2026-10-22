@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_pizzaInBox</name>
+   <tag></tag>
+   <elementGuidId>06c984fa-989a-415b-b4c7-c9b8004a8039</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='div1']//img[@id='drag1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#div1 #drag1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='div1']//img[@id='drag1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1e0cd68f-df6b-4245-bbc7-ac9109388042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>drag1</value>
+      <webElementGuid>69416469-ebb6-4e32-bae7-e2bc78f6fe08</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

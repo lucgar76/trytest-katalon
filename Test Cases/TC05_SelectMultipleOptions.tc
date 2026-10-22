@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_SelectMultipleOptions</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a668fbf5-af0f-4e15-b814-cddab8ee2d07</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_logo</name>
+   <tag></tag>
+   <elementGuidId>1b857a91-f8b8-459b-8a29-99464246dcfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//svg[@aria-label='Google']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg[aria-label='Google']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//svg[@aria-label='Google']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>8a651105-b596-4d39-b240-ba19a6d75101</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Google</value>
+      <webElementGuid>1e56d027-3b04-4695-a8c2-2c1d6686389f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

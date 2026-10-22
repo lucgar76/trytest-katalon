@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_lname</name>
+   <tag></tag>
+   <elementGuidId>47226a3b-8fd5-4d34-80b4-58f104504592</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='lname']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#lname</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='lname']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>8fd41d79-8d93-413b-b260-7b5328467c2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lname</value>
+      <webElementGuid>31f2b0c9-24e1-4dec-89e6-e348b6522737</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

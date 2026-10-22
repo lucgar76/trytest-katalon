@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_datalist</name>
+   <tag></tag>
+   <elementGuidId>16b84495-7d6c-441b-a09e-4a89a006d0e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@list='datalists']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[list='datalists']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@list='datalists']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2c1c2973-5606-4dbc-b4af-e16bd3093bcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>list</name>
+      <type>Main</type>
+      <value>datalists</value>
+      <webElementGuid>9f922805-ec00-4674-adee-268fb0fb1da6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

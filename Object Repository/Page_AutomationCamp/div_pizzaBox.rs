@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_pizzaBox</name>
+   <tag></tag>
+   <elementGuidId>d1b09125-3926-4b46-b59c-128c0721f09e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='div1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#div1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='div1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17a211bc-2bc0-43e9-8eeb-88117060a4d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>div1</value>
+      <webElementGuid>2c063ea8-2803-47d9-a579-1796c2cca9a8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

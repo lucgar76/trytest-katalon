@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_option</name>
+   <tag></tag>
+   <elementGuidId>7e4e086c-f0f0-4ad6-af8e-fa86d1ef4e0a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='option']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#option</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id='option']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2b2096e6-d7d0-4de8-a160-33bfc15b757e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>c94c9c5a-7605-44ad-9d29-a1afe53667f7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

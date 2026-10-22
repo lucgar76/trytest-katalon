@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_option1</name>
+   <tag></tag>
+   <elementGuidId>7f423039-196a-4667-8039-3bd6095436a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='option1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input[name='option1']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name='option1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b8c68c0d-d0dc-4298-8fcb-edf11d581d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>option1</value>
+      <webElementGuid>3a1f92f7-3010-493f-8649-fd169ae3a2da</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

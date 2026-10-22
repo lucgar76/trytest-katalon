@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_pizza</name>
+   <tag></tag>
+   <elementGuidId>b1588926-cbc0-4a58-a3f8-30b369081f61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='drag1']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#drag1</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='drag1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b75a9ca3-4ded-44e0-b9ea-0cb98f9f6374</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>drag1</value>
+      <webElementGuid>d4feb99d-5c58-4b9b-babb-b11594cc0ef3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

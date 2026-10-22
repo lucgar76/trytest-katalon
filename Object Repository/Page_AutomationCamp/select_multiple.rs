@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_multiple</name>
+   <tag></tag>
+   <elementGuidId>6b911eca-eae8-44b9-8b00-b3928b650bae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='owc']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#owc</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id='owc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>de8d34b9-1138-42fe-b76b-80fc296d5297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>owc</value>
+      <webElementGuid>e80a8fdf-b9fd-4969-ae8f-7d7aa3894bea</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
